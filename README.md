@@ -1,4 +1,4 @@
-markdown
+
 # 🖌️ MNIST Digit Recognition GUI with CNN
 
 A simple yet powerful GUI application that allows users to draw digits on a canvas and get real-time predictions using a Convolutional Neural Network (CNN) trained on the MNIST dataset.
