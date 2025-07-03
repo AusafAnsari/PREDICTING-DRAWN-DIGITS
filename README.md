@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🖌️ MNIST Digit Recognition GUI with CNN
 
 A simple yet powerful GUI application that allows users to draw digits on a canvas and get real-time predictions using a Convolutional Neural Network (CNN) trained on the MNIST dataset.
@@ -74,7 +74,7 @@ Ausaf Ansari
 ## 📝 License
 
 This project is licensed under the MIT License.
-```
+
 
 
 https://github.com/user-attachments/assets/59c89949-3b32-4544-bf3c-326970d3960a
